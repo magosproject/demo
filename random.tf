@@ -1,3 +1,4 @@
+// test /w daimy
 resource "random_id" "server" {
-  byte_length = 4
+  byte_length = 1
 }
